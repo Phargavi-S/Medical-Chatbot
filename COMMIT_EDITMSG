@@ -1,0 +1,8 @@
+Improve model's ability to answer questions by providing more context
+
+Refactor RAG pipeline to improve context retrieval and reduce response latency.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e25ffdc5-96bd-4891-a027-630bf68a4ed1
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/324a919c-7784-4b9a-9469-0b750a387151/e25ffdc5-96bd-4891-a027-630bf68a4ed1/ZIzd2mD
